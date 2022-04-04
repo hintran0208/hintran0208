@@ -1,6 +1,6 @@
 <!-- hintran0208 -->
 <a href="#" target="_blank">
-  <img src="svg/hintran.svg" width="1200" alt="hintran0208" />
+  <img src="svg/hintran.svg" width="100%" alt="hintran0208" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
